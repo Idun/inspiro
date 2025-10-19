@@ -1,0 +1,5 @@
+{
+  "name": "InspirationVault",
+  "description": "A minimalist application for collecting and organizing writing inspirations, ideas, and snippets. Users can create entries, categorize them into groups, and add tags for easy searching and retrieval.",
+  "requestFramePermissions": []
+}
